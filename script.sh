@@ -1,3 +1,4 @@
+# kads;al;gj;afgh
 # docker build --platform linux/amd64 . -t  py386r411jupyter
 if test -f "./configurationFile.txt"; then
 echo "$FILE exists."
